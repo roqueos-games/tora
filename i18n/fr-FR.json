@@ -1,0 +1,15 @@
+{
+  "title": "TORA",
+  "tagline": "Emboîte les blocs de bois et complète des lignes pour les effacer.",
+  "play": "Jouer",
+  "retry": "Rejouer",
+  "score": "Score",
+  "level": "Niveau {n}",
+  "levelLabel": "Niveau",
+  "levelUp": "Niveau terminé !",
+  "over": "Plus de place !",
+  "newRecord": "Nouveau record !",
+  "sound": "Son",
+  "hintTouch": "Fais glisser les pièces du plateau vers la grille. Remplis une ligne ou une colonne entière pour l’effacer.",
+  "hintMouse": "Fais glisser les pièces du plateau vers la grille. Remplis une ligne ou une colonne entière pour l’effacer."
+}

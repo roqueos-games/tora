@@ -1,0 +1,15 @@
+{
+  "title": "TORA",
+  "tagline": "Fit the wooden blocks and complete lines to clear them.",
+  "play": "Play",
+  "retry": "Play again",
+  "score": "Score",
+  "level": "Level {n}",
+  "levelLabel": "Level",
+  "levelUp": "Level cleared!",
+  "over": "No room left!",
+  "newRecord": "New record!",
+  "sound": "Sound",
+  "hintTouch": "Drag the tray pieces onto the board. Fill a whole row or column to clear it.",
+  "hintMouse": "Drag the tray pieces onto the board. Fill a whole row or column to clear it."
+}

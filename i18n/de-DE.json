@@ -1,0 +1,15 @@
+{
+  "title": "TORA",
+  "tagline": "Füge die Holzblöcke ein und vervollständige Reihen, um sie zu leeren.",
+  "play": "Spielen",
+  "retry": "Nochmal spielen",
+  "score": "Punkte",
+  "level": "Level {n}",
+  "levelLabel": "Level",
+  "levelUp": "Level geschafft!",
+  "over": "Kein Platz mehr!",
+  "newRecord": "Neuer Rekord!",
+  "sound": "Ton",
+  "hintTouch": "Ziehe die Teile aus der Ablage auf das Spielfeld. Fülle eine ganze Reihe oder Spalte, um sie zu leeren.",
+  "hintMouse": "Ziehe die Teile aus der Ablage auf das Spielfeld. Fülle eine ganze Reihe oder Spalte, um sie zu leeren."
+}

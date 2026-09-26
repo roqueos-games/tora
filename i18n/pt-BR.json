@@ -1,0 +1,15 @@
+{
+  "title": "TORA",
+  "tagline": "Encaixe os blocos de madeira e complete fileiras para limpá-las.",
+  "play": "Jogar",
+  "retry": "Jogar de novo",
+  "score": "Pontos",
+  "level": "Nível {n}",
+  "levelLabel": "Nível",
+  "levelUp": "Nível concluído!",
+  "over": "Sem espaço!",
+  "newRecord": "Novo recorde!",
+  "sound": "Som",
+  "hintTouch": "Arraste as peças da bandeja para o tabuleiro. Complete uma fileira ou coluna para limpá-la.",
+  "hintMouse": "Arraste as peças da bandeja para o tabuleiro. Complete uma fileira ou coluna para limpá-la."
+}

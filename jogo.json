@@ -1,0 +1,58 @@
+{
+  "id": "tora",
+  "slug": "tora",
+  "versaoDoContrato": 1,
+  "nome": {
+    "pt-BR": "TORA",
+    "en-US": "TORA",
+    "es-ES": "TORA",
+    "fr-FR": "TORA",
+    "de-DE": "TORA",
+    "ja-JP": "TORA",
+    "zh-CN": "TORA",
+    "hi-IN": "TORA",
+    "ru-RU": "TORA",
+    "ar-AR": "TORA"
+  },
+  "descricao": {
+    "pt-BR": "Encaixe blocos de madeira 3D e complete fileiras para limpá-las e passar de nível.",
+    "en-US": "Fit 3D wooden blocks and complete lines to clear them and level up.",
+    "es-ES": "Encaja bloques de madera 3D y completa líneas para eliminarlas y subir de nivel.",
+    "fr-FR": "Emboîte des blocs de bois 3D et complète des lignes pour les effacer et monter de niveau.",
+    "de-DE": "Füge 3D-Holzblöcke ein und vervollständige Reihen, um sie zu leeren und aufzusteigen.",
+    "ja-JP": "3Dの木のブロックをはめてラインをそろえて消し、レベルアップしよう。",
+    "zh-CN": "把 3D 木块拼进棋盘，填满整行即可消除，三块都放不下就结束。",
+    "hi-IN": "3D लकड़ी के ब्लॉक जमाएँ और पंक्तियाँ पूरी करके उन्हें साफ करें और अगले स्तर पर जाएँ।",
+    "ru-RU": "Складывайте деревянные 3D-блоки и заполняйте линии, чтобы очищать их и повышать уровень.",
+    "ar-AR": "ركّب كتلًا خشبية ثلاثية الأبعاد وأكمل الصفوف لمسحها والانتقال إلى مستوى أعلى."
+  },
+  "seo": {
+    "pt-BR": {
+      "resumo": "Puzzle de blocos de madeira em 3D, grátis no navegador: encaixe as peças e complete fileiras para limpar o tabuleiro.",
+      "sobre": "Tora é um quebra-cabeça de encaixe em madeira: as peças não caem sozinhas, você escolhe onde pôr cada uma. Fileira completa some, e o jogo acaba quando nenhuma das peças da mão cabe em lugar nenhum.",
+      "comoJogar": "Arraste a peça da mão para o tabuleiro. Antes de encaixar, confira se as outras duas ainda cabem."
+    },
+    "en-US": {
+      "resumo": "Free 3D wooden block puzzle in your browser: fit the pieces and complete rows to clear the board.",
+      "sobre": "Tora is a wooden fitting puzzle: pieces do not fall on their own, you choose where each one goes. Full rows clear, and the game ends when none of the pieces in hand fit anywhere.",
+      "comoJogar": "Drag a piece from your hand onto the board. Before you place it, check the other two still fit."
+    }
+  },
+  "etiquetas": ["Puzzle", "3d", "Logic"],
+  "capa": "public/capa.jpg",
+  "icone": "public/icone.svg",
+  "brilho": "rgba(217, 164, 65, 0.5)",
+  "janela": {
+    "largura": 560,
+    "altura": 760,
+    "minLargura": 400,
+    "minAltura": 560
+  },
+  "aceitaConvite": false,
+  "entraNoPodio": true,
+  "recorde": {
+    "chave": "best",
+    "maiorEMelhor": true
+  },
+  "capacidades": []
+}

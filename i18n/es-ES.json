@@ -1,0 +1,15 @@
+{
+  "title": "TORA",
+  "tagline": "Encaja los bloques de madera y completa líneas para eliminarlas.",
+  "play": "Jugar",
+  "retry": "Jugar de nuevo",
+  "score": "Puntos",
+  "level": "Nivel {n}",
+  "levelLabel": "Nivel",
+  "levelUp": "¡Nivel superado!",
+  "over": "¡No queda espacio!",
+  "newRecord": "¡Nuevo récord!",
+  "sound": "Sonido",
+  "hintTouch": "Arrastra las piezas de la bandeja al tablero. Completa una fila o columna para eliminarla.",
+  "hintMouse": "Arrastra las piezas de la bandeja al tablero. Completa una fila o columna para eliminarla."
+}
